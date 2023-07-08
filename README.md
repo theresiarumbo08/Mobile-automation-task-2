@@ -1,4 +1,4 @@
-# Tugas Akhir Mobile Automation WebDriverIO Cucumber
+# Tugas Akhir Mobile Automation WebDriverIO 
 ### How to Start
 
 #### Install
